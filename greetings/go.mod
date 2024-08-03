@@ -1,3 +1,3 @@
-module github.com/jorenchik/example-go/greetings
+module github.com/jorenchik/greetings
 
 go 1.22.5
