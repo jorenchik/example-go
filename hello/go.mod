@@ -1,3 +1,3 @@
-module github.com/jorenchik/example-go/hello
+module github.com/jorenchik/example-go
 
 go 1.22.5
